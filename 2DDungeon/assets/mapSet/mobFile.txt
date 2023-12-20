@@ -1,0 +1,3 @@
+Luciano,skeleton,Wooden Sword,Tunic,30,42
+Joseph,skeleton,Wooden Sword,Dread Catacomb Defenders,27,42
+Genovese,zombie,Wooden Sword,Chain Mail,26,46

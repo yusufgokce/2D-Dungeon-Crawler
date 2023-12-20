@@ -1,0 +1,12 @@
+Wizard Art:
+https://www.deviantart.com/alyskan/art/Warlock-968856300
+
+Rogue Art:
+https://stoneworksmc.fandom.com/wiki/Duffie13
+
+Knight Art:
+https://www.artstation.com/artwork/Xn3nbw
+
+ChatGpt was used in Documentation, Armour/Weapon descriptions, etc
+
+Ryisnow Tutorials were used to implement Tilebuilder, TileCollision, Tile, Character Animations.
